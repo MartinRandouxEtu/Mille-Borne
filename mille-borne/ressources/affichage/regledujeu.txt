@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DESCRIPTION
+
+    De 2 à 4 joueurs à partir de 6 ans.
+    Le jeu s'inspire du concept du Mille Bornes, mais il a un but ludo-pédagogique : 
+    les joueurs doivent répondre à différentes questions de difficulté variable, en 
+    fonction des cartes jouées.
+
+BUT DU JEU
+
+    Être le premier joueur à atteindre 1 000 bornes.
+
+PRÉPARATION DU JEU
+
+    Sélectionnez le nombre de joueurs.
+    Chaque joueur regarde ses propres cartes sans les montrer aux autres.
+    Le jeu se joue tour par tour, et chacun a le droit à une action par tour.
+    Pour jouer une carte, il suffit d'écrire le numéro de la carte que vous souhaitez 
+    jouer, puis d'appuyer sur Entrée pour confirmer.
+    Si vous ne pouvez jouer aucune carte, par exemple en cas de limitation de vitesse, 
+    il suffit, avant de mettre le numéro de carte, d'ajouter le caractère "-" (moins).
+    Il est possible de gêner n'importe quel joueur de votre choix avec une carte malus 
+    (limitation de vitesse). Vous pouvez choisir à quel joueur vous souhaitez l'appliquer. 
+    Vous pouvez contrer cette carte avec une autre carte (fin de limitation de vitesse) ou 
+    répondre à deux questions différentes.
+
+SYSTÈME DE SAUVEGARDE
+
+    Si vous souhaitez sauvegarder votre partie actuelle pour la rejouer plus tard, attendez 
+    la fin du tour d'un joueur. Une fois que le jeu demande d'appuyer sur Entrée pour passer 
+    au joueur suivant, écrivez "quitter". Le jeu prendra fin de lui-même, en sauvegardant 
+    votre progression au moment où vous avez quitté le jeu.
+    Si vous souhaitez récupérer votre sauvegarde, saisissez sur l'écran d'accueil "charger" 
+    puis appuyez sur Entrée pour récupérer votre partie au moment où vous étiez précédemment.
+
+
+appuyer sur Entrée pour revenir à la page précédente 

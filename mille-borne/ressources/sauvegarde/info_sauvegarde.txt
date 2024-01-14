@@ -1,0 +1,20 @@
+numero du tour
+nombre de joueur
+
+Pour chaque joueur:
+numero joueur
+avancer du joueur
+si le joueur a une limitation de vitesse
+le nombre de question a repondre pour ne plus être limiter
+espace avant l'affichage de la voiture du joueur
+
+Pour chaque carte dans la main du joueur:
+numero de l'emplacement de la carte
+type de carte
+numero borne
+
+numero indice carte a piocher
+pour chaque carte de la pioche:
+numero emplacement
+type de carte 
+numero borne

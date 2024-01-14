@@ -1,0 +1,35 @@
+Le Mille Borne
+
+Développé par RANDOUX Martin et DESPREZ Mathéo :
+Contact : martin.randoux.etu@univ-lille.fr
+          matheo.desprez.etu@univ-lille.fr
+
+Description du jeu :
+
+    De 2 à 4 joueurs a partir de 6 ans.
+    Le jeu s'inspire du concept du Mille Borne mais ayant un but 
+ludo-pédagogique ou il faudra répondre a différentes questions de difficulté 
+différentes en fonctions de la cartes joué.
+    
+Exécution du jeu :
+
+    Ouvrir le dossier du jeu dans le terminal
+    exécuter cette commande pour compiler le programme : ./compile.sh
+    ensuite exécuter la commande suivante pour exécuter le jeu : ./run.sh
+
+Comment jouer :
+
+    Une fois le jeu lancer, vous vous situez sur l'écran d'accueil
+    pressez entrée pour lancer le jeu puis sélectionner le nombres de joueurs
+    Si vous souhaitez connaître les règles du jeu pressé la touche H
+    le jeu se joue tour par tour et chacun a le droit a 1 actions par tour.
+    Le but du jeu est d’arrivé a 1000 bornes en accumulant toute les cartes une 
+    par une.
+    Il est possible de gêner n'importe quel joueur de votre choix avec une 
+    carte malus ( limitation de vitesse ) et de pouvoir la contré avec une 
+    autre carte ( fin de limitation de vitesse ) ou de répondre a 2 questions 
+    différentes.
+    
+            Aucune copie n'est autorisé sous peine de procès.
+                                                                            V1.0
+    

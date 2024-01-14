@@ -1,0 +1,2 @@
+remplir sous cette forme:
+question;reponse 1;reponse 2;reponse 3;la bonne reponse
